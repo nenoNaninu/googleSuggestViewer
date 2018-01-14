@@ -7,12 +7,19 @@
 からインストーラでインストールするかzipを落として中のbinにパスを通して再起動
 
 pythonが動く環境下で
-pip install graphviz
+
+```pip install graphviz```
+
 とたたく。
 
 その後
-python getSuggestAndMakeNode.py query output
-(例: python getSuggestAndMakeNode.py "灼眼のシャナ" "syana")
 
-とたたくとsyana.pngが生成される。
+```python getSuggestAndMakeNode.py query output```
+
+(例: python getSuggestAndMakeNode.py "opencv" cv)
+
+とたたくとcv.pngが生成される。
 わーい可視化された。
+
+
+なんというかsuggestでは単語一文字出るで前提で書いてたり,windows用にencode出来なかったらエラー吐かれたりするので要修正。
