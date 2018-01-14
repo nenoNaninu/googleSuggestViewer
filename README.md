@@ -1,0 +1,2 @@
+# googleSuggestViewer
+googleのサジェストワードの頻度と関連を可視化するツール
