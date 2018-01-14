@@ -20,7 +20,7 @@ pythonが動く環境下で
 
 とたたくとcv.pngが生成される。こんな感じ
 
-[img](https://github.com/nenoNaninu/googleSuggestViewer/blob/master/cv.png?raw=true)
+![img](https://github.com/nenoNaninu/googleSuggestViewer/blob/master/cv.png)
 
 
 わーい可視化された。
